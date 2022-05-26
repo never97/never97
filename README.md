@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Marco Silvestrin
 - 👀 I’m interested in programming 💻, astronomy 🔭, calisthenics 🤸, plants 🌿
 - 🌱 I’m currently learning C# and playing electric guitar 🎸
+- 💙💚 I support nuclear+renewable energy mix to contrast climate change
 
 <!---
 never97/never97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
